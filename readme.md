@@ -1,6 +1,5 @@
 ---
 
-````markdown
 # 🎯 Program Otomatisasi Microsoft Bing Rewards
 
 Script Python ini akan membuka situs [Bing Rewards](https://rewards.bing.com), memungkinkan kamu login secara manual, lalu mengotomatiskan pencarian berdasarkan daftar kata kunci, menutup tab setelah selesai, dan membuka tab baru untuk keyword selanjutnya.
