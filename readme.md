@@ -174,4 +174,3 @@ Proyek ini bebas digunakan untuk keperluan pribadi. Jangan digunakan untuk tinda
 ---
 
 Jika kamu menggunakan nama repo atau folder tertentu, kamu bisa ganti bagian `git clone` dan struktur file. Kalau kamu ingin saya bantu buatkan file `requirements.txt` atau skrip setup otomatis, tinggal bilang.
-```
